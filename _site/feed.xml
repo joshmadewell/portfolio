@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-06-29T14:35:45-05:00</updated><id>http://localhost:4000/</id><title>Josh Madewell</title><subtitle>JavaScript Ninja, Enthusiast, and Teacher</subtitle><entry><title>Who Am I?</title><link href="http://localhost:4000/who-am-i/" rel="alternate" type="text/html" title="Who Am I?" /><published>2016-06-29T00:00:00-05:00</published><updated>2016-06-29T00:00:00-05:00</updated><id>http://localhost:4000/who-am-i</id><content type="html" xml:base="http://localhost:4000/who-am-i/">&lt;h2 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h2&gt;
+&lt;p&gt;My name is Josh Madewell. I was raised in Kissimmee, FL by my loving parents who both happen to be teachers. I graduated from Florida State University in 2013 with a Bachelor of Science in Computer Science. Six months before graduating, I got my first job as an Associate Software Developer at PATLive (now known as Tresta). After working at PATLive for just over a year and a half, I decided that Tallahassee was not the place for me and moved to Austin, TX. I’ve held two full-stack web developer jobs in Austin both focusing on the MEAN stack. I’m currently employed at Q1Media as a Web Developer. I am also currently a TA with The Coding Bootcamp at UT Austin.&lt;/p&gt;
+
+&lt;h2 id=&quot;personal-interview&quot;&gt;Personal Interview&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Where do you see yourself in 5 years?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Coding.&lt;/p&gt;
+
+&lt;p&gt;Sometimes, I’ll get asked what that means and the answer to that is simple: It means I love what I’m doing. I love to code. When I get home from work one of my favorite things to do right now is to pull out my laptop and start hacking away at something. It doesn’t matter to me if that something is work related, a personal project, an open source project, or freelance, when I’m coding, I’m happy.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What is it you enjoy &lt;em&gt;most&lt;/em&gt; about coding?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The thrill of completing something.&lt;/p&gt;
+
+&lt;p&gt;There is literally no greater feeling than hacking away at a problem for three hours straight, refreshing the browser, and then finally seeing the result you expected when you started. Every time this happens there’s a mini victory dance that goes on in my head reminding me why I love to code.&lt;/p&gt;</content><summary>A quick description of who Josh Madewell is</summary></entry><entry><title>How Do You Know So Much?</title><link href="http://localhost:4000/how-do-you-know-so-much/" rel="alternate" type="text/html" title="How Do You Know So Much?" /><published>2016-06-29T00:00:00-05:00</published><updated>2016-06-29T00:00:00-05:00</updated><id>http://localhost:4000/how-do-you-know-so-much</id><content type="html" xml:base="http://localhost:4000/how-do-you-know-so-much/">&lt;h2 id=&quot;how-do-you-know-so-much&quot;&gt;How Do You Know So Much?&lt;/h2&gt;</content><category term="stack overflow" /><category term="documentation" /><category term="searching" /><category term="rules" /><summary>The question that started the blog.</summary></entry></feed>

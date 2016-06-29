@@ -1,0 +1,33 @@
+.projects-link,
+.projects-menu-icon {
+	display: none;
+}
+
+.posts-link,
+.posts-menu-icon {
+	right: 30px;
+}
+
+.subtitle {
+	font-size: 18px;
+}
+
+.about-info {
+	em {
+		font-style: italic;
+	}
+}
+
+.block-left {
+	background-position: center center;
+}
+
+.logo img {
+	border-radius: 15px;
+}
+
+#posts {
+	.logo img {
+		border-radius: 5px;
+	}
+}
