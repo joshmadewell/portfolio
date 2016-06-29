@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-06-29T14:35:45-05:00</updated><id>http://localhost:4000/</id><title>Josh Madewell</title><subtitle>JavaScript Ninja, Enthusiast, and Teacher</subtitle><entry><title>Who Am I?</title><link href="http://localhost:4000/who-am-i/" rel="alternate" type="text/html" title="Who Am I?" /><published>2016-06-29T00:00:00-05:00</published><updated>2016-06-29T00:00:00-05:00</updated><id>http://localhost:4000/who-am-i</id><content type="html" xml:base="http://localhost:4000/who-am-i/">&lt;h2 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-06-29T17:28:54-05:00</updated><id>http://localhost:4000/</id><title>Josh Madewell</title><subtitle>JavaScript Ninja, Enthusiast, and Teacher</subtitle><entry><title>Who Am I?</title><link href="http://localhost:4000/who-am-i/" rel="alternate" type="text/html" title="Who Am I?" /><published>2016-06-29T00:00:00-05:00</published><updated>2016-06-29T00:00:00-05:00</updated><id>http://localhost:4000/who-am-i</id><content type="html" xml:base="http://localhost:4000/who-am-i/">&lt;h2 id=&quot;short-biography&quot;&gt;Short Biography&lt;/h2&gt;
 &lt;p&gt;My name is Josh Madewell. I was raised in Kissimmee, FL by my loving parents who both happen to be teachers. I graduated from Florida State University in 2013 with a Bachelor of Science in Computer Science. Six months before graduating, I got my first job as an Associate Software Developer at PATLive (now known as Tresta). After working at PATLive for just over a year and a half, I decided that Tallahassee was not the place for me and moved to Austin, TX. I’ve held two full-stack web developer jobs in Austin both focusing on the MEAN stack. I’m currently employed at Q1Media as a Web Developer. I am also currently a TA with The Coding Bootcamp at UT Austin.&lt;/p&gt;
 
 &lt;h2 id=&quot;personal-interview&quot;&gt;Personal Interview&lt;/h2&gt;
@@ -8,7 +8,7 @@
 
 &lt;p&gt;Coding.&lt;/p&gt;
 
-&lt;p&gt;Sometimes, I’ll get asked what that means and the answer to that is simple: It means I love what I’m doing. I love to code. When I get home from work one of my favorite things to do right now is to pull out my laptop and start hacking away at something. It doesn’t matter to me if that something is work related, a personal project, an open source project, or freelance, when I’m coding, I’m happy.&lt;/p&gt;
+&lt;p&gt;I’ve been asked this a few times in my life. My answers used to be back when I wasn’t even out of high school and I said that I was going to be a doctor. Times sure have changed. Now, if I hear this question, it’s usually in an interview or a 1:1 with my current employer and when I answer this question with “coding” I’m usually asked what that means. So in case you’re asking the same thing: It means I love what I’m doing. I love to code. When I get home from work one of my favorite things to do right now is to pull out my laptop and start hacking away at something. It doesn’t matter to me if that something is work related, a personal project, an open source project, or freelance, when I’m coding, I’m happy.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;What is it you enjoy &lt;em&gt;most&lt;/em&gt; about coding?&lt;/p&gt;
@@ -16,4 +16,28 @@
 
 &lt;p&gt;The thrill of completing something.&lt;/p&gt;
 
-&lt;p&gt;There is literally no greater feeling than hacking away at a problem for three hours straight, refreshing the browser, and then finally seeing the result you expected when you started. Every time this happens there’s a mini victory dance that goes on in my head reminding me why I love to code.&lt;/p&gt;</content><summary>A quick description of who Josh Madewell is</summary></entry><entry><title>How Do You Know So Much?</title><link href="http://localhost:4000/how-do-you-know-so-much/" rel="alternate" type="text/html" title="How Do You Know So Much?" /><published>2016-06-29T00:00:00-05:00</published><updated>2016-06-29T00:00:00-05:00</updated><id>http://localhost:4000/how-do-you-know-so-much</id><content type="html" xml:base="http://localhost:4000/how-do-you-know-so-much/">&lt;h2 id=&quot;how-do-you-know-so-much&quot;&gt;How Do You Know So Much?&lt;/h2&gt;</content><category term="stack overflow" /><category term="documentation" /><category term="searching" /><category term="rules" /><summary>The question that started the blog.</summary></entry></feed>
+&lt;p&gt;There is literally no greater feeling than hacking away at a problem for three hours straight, refreshing the browser, and then finally seeing the result you expected when you started. Every time this happens there’s a mini victory dance that goes on in my head reminding me why I love to code.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Why the blog?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’m going to be addressing this a little bit more in my next post but the main reason for this blog is going to be to help people learn how to self learn (sorry, that’s a mouthful). I’ve always wanted to blog, I’ve always had plenty of thoughts and things to blog about but never really had a good drive getting me to do it until yesterday when a student asked me the seemingly simple question: “How do you know so much about JavaScript?”&lt;/p&gt;
+
+&lt;p&gt;This question, I thought was super easy to answer but then it occurred to me that it’s actually a really hard question. Sure, I can say “I read about everything” or “I’ve done my research” but that doesn’t mean anything to someone who’s actually interested. They want to learn &lt;em&gt;how&lt;/em&gt; I know so much. So I’m going to try and teach that with this blog.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Is this a coding only blog?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;No.&lt;/p&gt;
+
+&lt;p&gt;I don’t want my blog to be about coding only. It may be my favorite hobby and something I enjoy talking about but there’s two things I enjoy almost as much. Budgeting and playing Poker. They are quite unrelated to coding but they are two things that I could talk all about for hours so they will definitely be blogged about at some point. If anyone has specific request then please &lt;a href=&quot;mailto:joshmadewell@gmail.com&quot;&gt;contact me!&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How often will you post?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have no idea.&lt;/p&gt;
+
+&lt;p&gt;I want to post at least once a week but it could be more and it could be less. At the beginning it’ll probably be a bit more and then it’ll slow down as I keep going but I definitely want to keep going and just keep putting my thoughts out there.&lt;/p&gt;</content><summary>A quick description of who Josh Madewell is</summary></entry><entry><title>How Do You Know So Much?</title><link href="http://localhost:4000/how-do-you-know-so-much/" rel="alternate" type="text/html" title="How Do You Know So Much?" /><published>2016-06-29T00:00:00-05:00</published><updated>2016-06-29T00:00:00-05:00</updated><id>http://localhost:4000/how-do-you-know-so-much</id><content type="html" xml:base="http://localhost:4000/how-do-you-know-so-much/">&lt;h2 id=&quot;how-do-you-know-so-much&quot;&gt;How Do You Know So Much?&lt;/h2&gt;</content><category term="stack overflow" /><category term="documentation" /><category term="searching" /><category term="rules" /><summary>The question that started the blog.</summary></entry></feed>

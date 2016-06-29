@@ -1,7 +1,7 @@
 # Site
 title: Josh Madewell
-description: JavaScript Ninja, Enthusiast, and Teacher
-url: http://localhost:4000
+description: JavaScript Enthusiast and Teacher
+url: http://www.joshmadewell.com
 logo: profile.jpg                                       # Site logo
 locale: en_US
 
@@ -26,12 +26,12 @@ sass:
   style:            compressed
 
 # Google Analytics
-#google-analytics: UA-XXXXX-Y
+google-analytics: UA-57947155-2
 
 # Social Links
 email:              josh.madewell@gmail.com
 twitter:            joshmadewell
-# github:             joshmadewell
+github:             joshmadewell
 stackoverflow:      1995327/jmadewell
 linkedin:           joshmadewell
 # facebook:           username
