@@ -51,7 +51,7 @@ These four rules should help you become a better learner:
 
 	This can be hard to do and it can be harder to keep up with but what motivates me is remembering two things: First, you already know it: someone cares about how good I am at what I do and second, that same someone cares about how good my peers are at how they do what they do.
 
-	If I take the time to get learn _one more thing_ about any given concept than one of my peers then I'm going to always be one step ahead of that peer. If I'm always a step (or more) ahead of my peers then that someone who cares has damn good reason to think higher of me than any of my peers.
+	If I take the time to learn _one more thing_ about any given concept than one of my peers then I will always be one step ahead of that peer. If I'm always a step (or more) ahead of my peers then that "someone who cares" has a _dame_ good reason to think higher of me than any of my peers.
 
 3. Don't ever leave a question unanswered.
 
